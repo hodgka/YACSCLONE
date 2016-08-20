@@ -1,0 +1,92 @@
+body{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    text-decoration: none;
+    background-color: #efefef;
+    font-size: 18px;
+}
+
+.navbar{
+    background-color: #c65353;
+    border-color: #efefef;
+    color: #efefef;
+}
+.navbar .navbar-brand{
+    color: #efefef;
+    font-weight: 700;
+}
+
+.navbar-text > a{
+    color:inherit;
+    text-decoration: none;
+}
+p{
+  color: #efefef;
+}
+a i{
+  color: #efefef;
+}
+
+.navbar .navbar-nav > li > a,
+.navbar .navbar-nav > li > a:hover
+.navbar .navbar-nav > li > a:focus{
+    color: #efefef;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.navbar-center{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+.schedule-btn{
+  margin: 0 50px;
+  font-weight: 700;
+}
+
+
+
+
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+span{
+    font-weight: bold;
+}
+.divider {
+  height: 1px;
+  width:100%;
+  display:block; /* for use on default inline elements like span */
+  margin: 9px 0;
+  overflow: hidden;
+  background-color: #000000;
+}
+#nav ul li a{
+    display: inline;
+    float: left;
+    margin: 0 10em;
+    color: #444444;
+    font-weight: bold;
+    text-decoration: none;
+}
+li a{
+    text-decoration: none;
+    color: #444444;
+    margin: 2
+
+}
+
+.departments li a:hover,
+.departments li a:focus{
+    color: #efefef;
+    background-color: #c65353;
+    text-decoration: none;
+
+}
