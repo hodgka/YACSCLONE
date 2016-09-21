@@ -1,5 +1,5 @@
 body{
-    padding-top: 50px;
+    padding-top: 65px;
     padding-bottom: 100px;
     text-decoration: none;
     background-color: #efefef;
@@ -9,20 +9,24 @@ body{
 .navbar{
     background-color: #c65353;
     border-color: #efefef;
+    /*font color*/
     color: #efefef;
-}
-.navbar .navbar-brand{
-    color: #efefef;
-    font-weight: 700;
+    font-size: 24px;
 }
 
-.navbar-text > a{
-    color:inherit;
+.navbar .navbar-brand {
+    color: #efefef;
+    font-size: 24px;
+}
+
+.navbar-text > a {
     text-decoration: none;
 }
-p{
+
+p {
   color: #efefef;
 }
+
 a i{
   color: #efefef;
 }
@@ -33,6 +37,7 @@ a i{
     color: #efefef;
     background-color: transparent;
     text-decoration: none;
+    margin: 0 50px;
 }
 
 .navbar-center{
@@ -41,15 +46,6 @@ a i{
     text-align: center;
     margin: auto;
 }
-
-.schedule-btn{
-  margin: 0 50px;
-  font-weight: 700;
-}
-
-
-
-
 
 ul{
     list-style-type: none;
@@ -60,33 +56,27 @@ ul{
 span{
     font-weight: bold;
 }
+
 .divider {
   height: 1px;
   width:100%;
   display:block; /* for use on default inline elements like span */
   margin: 9px 0;
   overflow: hidden;
-  background-color: #000000;
+  background-color: #444444;
 }
-#nav ul li a{
-    display: inline;
-    float: left;
-    margin: 0 10em;
-    color: #444444;
-    font-weight: bold;
-    text-decoration: none;
-}
+
 li a{
     text-decoration: none;
     color: #444444;
-    margin: 2
-
+    margin: 2px;
+    padding: 2px;
 }
 
-.departments li a:hover,
-.departments li a:focus{
+
+.departments li:hover,
+.departments li:hover a{
     color: #efefef;
     background-color: #c65353;
     text-decoration: none;
-
 }

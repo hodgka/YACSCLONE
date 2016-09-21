@@ -1,0 +1,71 @@
+<CourseDB timestamp="1471946402" semesternumber="201609" semesterdesc="Fall 2016">
+
+    <COURSE name="CALCULUS I" dept="MATH" num="1010" credmin="4" credmax="4" gradetype="">
+        <SECTION crn="27632" num="01" students="14" seats="14">
+            <PERIOD type="LEC" instructor="Kucinski/Lynch" start="1400" end="1450" location="">
+                <DAY>0</DAY>
+                <DAY>2</DAY>
+                <DAY>3</DAY>
+            </PERIOD>
+            <PERIOD type="REC" instructor="Staff" start="0800" end="0850" location="">
+                <DAY>1</DAY>
+            </PERIOD>
+            <PERIOD type="STU" instructor="Staff" start="0900" end="0950" location="">
+                <DAY>2</DAY>
+            </PERIOD>
+        </SECTION>
+        <SECTION crn="27633" num="02" students="15" seats="14">
+            <PERIOD type="LEC" instructor="Kucinski/Lynch" start="1400" end="1450" location="">
+                <DAY>0</DAY>
+                <DAY>2</DAY>
+                <DAY>3</DAY>
+            </PERIOD>
+            <PERIOD type="REC" instructor="Staff" start="0800" end="0850" location="">
+                <DAY>1</DAY>
+            </PERIOD>
+            <PERIOD type="STU" instructor="Staff" start="1200" end="1250" location="">
+                <DAY>2</DAY>
+            </PERIOD>
+        </SECTION>
+
+        <SECTION crn="27634" num="03" students="14" seats="14">
+            <PERIOD type="LEC" instructor="Kucinski/Lynch" start="1400" end="1450" location="">
+                <DAY>0</DAY>
+                <DAY>2</DAY>
+                <DAY>3</DAY>
+            </PERIOD>
+            <PERIOD type="REC" instructor="Staff" start="0800" end="0850" location="">
+                <DAY>4</DAY>
+            </PERIOD>
+            <PERIOD type="STU" instructor="Staff" start="0900" end="0950" location="">
+                <DAY>2</DAY>
+            </PERIOD>
+        </SECTION>
+        <SECTION crn="27635" num="04" students="15" seats="15">
+            <PERIOD type="LEC" instructor="Kucinski/Lynch" start="1400" end="1450" location="">
+                <DAY>0</DAY>
+                <DAY>2</DAY>
+                <DAY>3</DAY>
+            </PERIOD>
+            <PERIOD type="REC" instructor="Staff" start="0800" end="0850" location="">
+                <DAY>4</DAY>
+            </PERIOD>
+            <PERIOD type="STU" instructor="Staff" start="1200" end="1250" location="">
+                <DAY>2</DAY>
+            </PERIOD>
+        </SECTION>
+        <SECTION crn="25351" num="15" students="12" seats="14">
+            <PERIOD type="LEC" instructor="Kucinski/Lynch" start="1600" end="1650" location="">
+                <DAY>0</DAY>
+                <DAY>2</DAY>
+                <DAY>3</DAY>
+            </PERIOD>
+            <PERIOD type="REC" instructor="Staff" start="0900" end="0950" location="">
+                <DAY>4</DAY>
+            </PERIOD>
+            <PERIOD type="STU" instructor="Staff" start="1000" end="1050" location="">
+                <DAY>2</DAY>
+            </PERIOD>
+        </SECTION>
+    </COURSE>
+</CourseDB>
